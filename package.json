@@ -1,6 +1,6 @@
 {
   "name": "json-schema-to-typescript",
-  "version": "10.1.4",
+  "version": "10.1.5",
   "description": "compile json schema to typescript typings",
   "main": "dist/src/index.js",
   "bin": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bcherny/json-schema-to-typescript.git"
+    "url": "git+https://github.com/KtorZ/json-schema-to-typescript.git"
   },
   "keywords": [
     "json",
@@ -42,9 +42,9 @@
   "author": "Boris Cherny <boris@performancejs.com> (http://performancejs.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bcherny/json-schema-to-typescript/issues"
+    "url": "https://github.com/KtorZ/json-schema-to-typescript/issues"
   },
-  "homepage": "https://github.com/bcherny/json-schema-to-typescript#readme",
+  "homepage": "https://github.com/KtorZ/json-schema-to-typescript#readme",
   "dependencies": {
     "@types/json-schema": "^7.0.6",
     "@types/lodash": "^4.14.168",
